@@ -1,9 +1,7 @@
-from email.mime import image
 from tkinter import *
 from tkinter import filedialog
 from PIL import Image, ImageTk
 import os
-from win32api import GetSystemMetrics
 
 root = Tk()
 root.title("Image Viewer APP")
