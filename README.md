@@ -43,7 +43,7 @@ https://user-images.githubusercontent.com/99032604/199144046-63b49fa5-be3d-4252-
 
 ## Documentation
 
-This function `open_image()` opens the file passed by `filename`. Then we execute the `Image` method called `open` on this ``filename`. We resize the image, process the image with the `PhotoImage` method. Then we set the image to display and display it:
+This function `open_image()` opens the file passed by `filename`. Then we execute the `Image` method called `open` on this `filename`. We resize the image, process the image with the `PhotoImage` method. Then we set the image to display and display it:
 
 ```
 def open_image():
