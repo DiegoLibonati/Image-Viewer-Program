@@ -35,7 +35,7 @@ I made a python program that uses tkinter as user interface. This program allows
 
 ## Portfolio Link
 
-`https://diegolibonati.github.io/DiegoLibonatiWeb/#/projects?q=Image%20viewer%20program`
+`https://diegolibonati.github.io/DiegoLibonatiWeb/#/projects?q=Image%20Viewer%20Program`
 
 ## Video
 
